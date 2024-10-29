@@ -9,7 +9,7 @@ namespace DotNetCoreSample
             Console.WriteLine("Hello from .NET Core!");
             Console.Write("Enter a number: ");
             int number = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Your number squared is: {number + number}");
+            Console.WriteLine($"Your number squared is: {number * number}");
         }
     }
 }
