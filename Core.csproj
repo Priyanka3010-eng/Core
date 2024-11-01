@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Authors>Priyanka, X, M</Authors>
+    <Authors>Priyanka</Authors>
 	  <OutputPath>X:\Container\Bin\Assemblies\Debug</OutputPath>
   </PropertyGroup>
 
